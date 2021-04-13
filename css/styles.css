@@ -1,0 +1,24 @@
+.cont1 {
+ background-image: linear-gradient(to right top, #45cf28, #00c28d, #00acc4, #0090ca, #5b72a6);
+ height: 300px;
+}
+
+#farmy {
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Acme', sans-serif;
+  color: white;
+  padding-top: 100px;
+}
+
+.cont2 {
+  background-image: linear-gradient(to right top, #45cf28, #00c28d, #00acc4, #0090ca, #5b72a6);
+  height: 130px;
+  margin-top: 80px;
+}
+
+#footer {
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
